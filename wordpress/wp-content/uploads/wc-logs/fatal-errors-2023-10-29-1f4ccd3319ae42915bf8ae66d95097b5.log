@@ -1,0 +1,8 @@
+2023-10-29T07:09:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\choco\wordpress\wp-content\plugins\wpforms-lite\includes\deprecated.php on line 146
+
+2023-10-29T07:09:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\choco\wordpress\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBLogger.php on line 155
+
+2023-10-29T07:09:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\choco\wordpress\wp-content\themes\astra\inc\compatibility\woocommerce\class-astra-woocommerce.php on line 11
+
+2023-10-29T07:09:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\choco\wordpress\wp-admin\includes\class-wp-site-health.php on line 3643
+
